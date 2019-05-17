@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CPUThrottle:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/CPUThrottle_jar</output-path>
+    <root id="archive" name="CPUThrottle.jar">
+      <element id="module-output" name="CPUThrottle" />
+    </root>
+  </artifact>
+</component>
