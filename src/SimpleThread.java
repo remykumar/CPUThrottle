@@ -6,7 +6,8 @@ import java.util.Scanner;
 /*import static java.lang.StrictMath.atan;
 import static java.lang.StrictMath.tan;*/
 
-// Pushed to github on 07-Nov 2019
+// Pushed to github on 07-Nov 2019.
+// Changed the clone method
 
 class SimpleThread extends Thread
 {
